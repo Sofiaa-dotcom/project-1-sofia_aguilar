@@ -1,0 +1,28 @@
+{
+    "name": "project 1 sofia_aguilar",
+    "description": "",
+    "dependencies": {
+        "adafruit-circuit-playground-express": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.13.65",
+        "tag": "v0.13.65",
+        "commits": "https://github.com/microsoft/pxt-maker/commits/429a9323219cf72e81375e500c7a8838d8c5af9f",
+        "target": "0.13.65",
+        "pxt": "6.6.16",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "python-only"
+}
